@@ -1,0 +1,128 @@
+body{
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-family: 'Helvetica', 'Arial', 'PingFang TC', 'Heiti TC', 'Microsoft Jhenghei', sans-serif;
+}
+#topimg{
+    width: 95%;
+    margin-left: 5%;
+    float: right;
+    margin-bottom: 80px;
+}
+.picture{
+width: 1100px;
+padding:0;
+margin-left: 12%;
+    
+}
+.pictureword{
+    text-align:center;
+    font-size: 16px;
+    margin-bottom: 40px;
+    color: #000000;
+}
+.pword{
+    padding: 10px;
+}
+
+img{
+    width: 100%;
+   }
+
+.class{
+    display: inline;
+    margin-left: 5%;
+}
+
+.left{
+    width: 70px;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background-color: #FFFFFF;
+    float: left;  
+    box-shadow: 1px 0 2px 0 rgba(0, 0, 0, 0.1)
+}
+#left1{
+    
+    padding: 15px;
+    height: 70px;
+    border-bottom: 1px solid #F2F2F2;
+}
+#left2{
+    padding: 15px;
+    height: 70px;
+    border-bottom: 1px solid #F2F2F2;
+}
+#left21{
+    text-align: center;
+}
+#left3{
+    border-bottom: 1px solid #F2F2F2;
+    padding: 15px;
+    height:473px;
+}
+#left4{
+    padding: 15px;
+    height: 70px;
+    border-bottom: 1px solid #F2F2F2;
+}
+
+.btn{
+    text-align: center;
+    color: #000000;
+    margin-top: 60px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px 32px;
+    border-radius: 100px;
+    margin-left: 45%;
+    margin-right: 50%;;
+}
+.footer{
+    align-items: center;
+    width: 100%;
+    position: relative;
+    margin-top: 130px;
+
+}
+#smile{
+    display: inline-block;
+    width: 70px;
+    height: 60px;
+    margin-bottom: 32px;
+    margin-left: 47%;
+    margin-right: 50%;
+}
+
+#appgoo{
+margin-left: 34%;
+}
+#appstore{
+    width: 154px;
+    height: 46px;
+    margin: 0 7px;
+    cursor: pointer;    
+
+}
+
+#googleplay{
+    width: 154px;
+    height: 46px;
+    margin: 0 7px;
+    cursor: pointer;
+}
+
+#copyright{
+    align-items: center;
+    font-size: 12px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: #F2F2F2;
+    color: #A9A4B0;
+}
+
+
+
+
